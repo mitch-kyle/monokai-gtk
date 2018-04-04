@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=monokai
+Comment=GTK theme using the monokai dark color scheme created with oomox
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=monokai
+GtkTheme=monokai
+IconTheme=monokai
+MetacityTheme=monokai
