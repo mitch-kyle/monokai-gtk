@@ -20,7 +20,7 @@ menu.items.text.color: #f8f8f2
 menu.items.disabled.text.color: #c3c4be
 
 menu.items.active.bg: Solid Flat
-menu.items.active.bg.color: #49483e
+menu.items.active.bg.color: #3d3e31
 menu.items.active.text.color: #f8f8f2
 
 menu.separator.color: #c3c4be
@@ -32,7 +32,7 @@ menu.separator.padding.height: 4
 window.active.title.separator.color: #272822
 
 # Active window
-window.active.border.color: #49483e
+window.active.border.color: #3d3e31
 
 
 window.active.title.bg: flat solid
@@ -54,7 +54,7 @@ window.active.button.unpressed.bg.color: #272822
 window.active.button.unpressed.image.color: #f8f8f2
 
 window.active.button.pressed.bg: flat solid
-window.active.button.pressed.bg.color: #49483e
+window.active.button.pressed.bg.color: #3d3e31
 window.active.button.pressed.image.color: #f8f8f2
 
 window.active.button.disabled.bg: flat solid
@@ -63,13 +63,13 @@ window.active.button.disabled.image.color: #c3c4be
 
 window.active.button.hover.bg: flat solid
 window.active.button.hover.bg.color: #272822
-window.active.button.hover.image.color: #49483e
+window.active.button.hover.image.color: #3d3e31
 
-#window.active.button.toggled.bg: #49483e
+#window.active.button.toggled.bg: #3d3e31
 #window.active.button.toggled.image.color: #f8f8f2
 
 # Inactive window
-window.inactive.border.color: #272822
+window.inactive.border.color: #141414
 
 window.inactive.title.bg: flat solid
 window.inactive.title.bg.color: #272822
@@ -90,7 +90,7 @@ window.inactive.button.unpressed.bg.color: #272822
 window.inactive.button.unpressed.image.color: #c3c4be
 
 window.inactive.button.pressed.bg: flat solid
-window.inactive.button.pressed.bg.color: #49483e
+window.inactive.button.pressed.bg.color: #3d3e31
 window.inactive.button.pressed.image.color: #f8f8f2
 
 window.inactive.button.disabled.bg: flat solid
@@ -99,12 +99,12 @@ window.inactive.button.disabled.image.color: #272822
 
 window.inactive.button.hover.bg: flat solid
 window.inactive.button.hover.bg.color: #272822
-window.inactive.button.hover.image.color: #49483e
+window.inactive.button.hover.image.color: #3d3e31
 
 
 # OSD
 osd.border.width: 1
-osd.border.color: #49483e
+osd.border.color: #3d3e31
 
 osd.bg: flat solid
 osd.bg.color: #272822
@@ -119,7 +119,7 @@ osd.bg.shadow: 0
 
 osd.border.width: 2
 osd.hilight.bg: Solid Flat
-osd.hilight.bg.color: #49483e
+osd.hilight.bg.color: #3d3e31
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #272822
 
@@ -128,14 +128,14 @@ osd.button.unpressed.bg.color: #272822
 #osd.button.unpressed.*.border.color: #f8f8f2
 
 osd.button.pressed.bg: flat border
-osd.button.pressed.bg.color: #49483e
+osd.button.pressed.bg.color: #3d3e31
 #osd.button.pressed.*.border.color: #f8f8f2
 
 osd.button.focused.bg: flat solid border
 osd.button.focused.bg.color: #f8f8f2
 #osd.button.focused.*.border.color: #272822
 
-osd.button.focused.box.color: #49483e
+osd.button.focused.box.color: #3d3e31
 
 
 # Fonts
@@ -146,9 +146,9 @@ menu.title.text.font:shadow=n
 
 
 # Everything else
-border.width: 3
+border.width: 0
 padding.width: 8
-padding.height: 3
+padding.height: 0
 window.handle.width: 0
 window.client.padding.width: 0
 window.label.text.justify: center
